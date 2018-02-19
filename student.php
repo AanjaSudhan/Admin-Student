@@ -11,7 +11,7 @@
 
 <!Doctype html>
 <html>
-<head><title>Student</title></head>
+<head><title>Student - 10th Result</title></head>
 <link href="style.css" rel="stylesheet">
 <body>
 	 <form action = "student.php" method = "post"><br><br>
