@@ -1,0 +1,45 @@
+
+
+/*index*/
+
+body{
+
+	background:gray;
+	color:red;
+	
+}
+
+ .style  {
+
+	padding: 10px;
+	margin:40px;
+	
+	
+}
+
+
+/*admin*/
+
+.admin{
+  color:blue;
+  padding:10px;
+  background-color:yellow;
+
+}
+.button:hover{
+    background:blue;
+	color:red;
+}
+
+
+/*student*/
+
+.student{
+
+ color:yellow;
+
+}
+.click:hover{
+	background:red;
+
+}
